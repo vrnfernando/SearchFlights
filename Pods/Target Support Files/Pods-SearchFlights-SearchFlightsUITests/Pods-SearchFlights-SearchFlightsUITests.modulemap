@@ -1,0 +1,6 @@
+framework module Pods_SearchFlights_SearchFlightsUITests {
+  umbrella header "Pods-SearchFlights-SearchFlightsUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
