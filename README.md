@@ -53,9 +53,5 @@ This app relies on the following third-party libraries, which are managed using 
 
 - **Alamofire**: Used for making network requests to fetch flight search results. More information can be found [here](https://github.com/Alamofire/Alamofire).
 
-## Contributing
-
-If you'd like to contribute to this project, feel free to fork the repository and submit a pull request with your changes. We welcome contributions to improve and enhance the app.
-
 
 **Happy flight searching! 🛫**
